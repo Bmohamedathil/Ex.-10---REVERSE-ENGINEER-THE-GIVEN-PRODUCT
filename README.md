@@ -37,8 +37,8 @@
 
 ![10](https://github.com/Bmohamedathil/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119560261/5d50cbf7-29c3-4084-852c-a0350593f2e2)
 
-### Name:
-### Register Number:
+### Name: MOHAMED ATHIL.B
+### Register Number: 212222230081
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
